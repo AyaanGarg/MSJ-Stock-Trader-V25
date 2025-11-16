@@ -1,0 +1,198 @@
+{
+  "newcomer": {
+    "name": "Newcomer",
+    "description": "Welcome to MSJSTOCKTRADER!",
+    "icon": "\ud83c\udf1f",
+    "rarity": "common",
+    "category": "starter"
+  },
+  "first_trade": {
+    "name": "First Trade",
+    "description": "Made your first trade",
+    "icon": "\ud83d\udcc8",
+    "rarity": "common",
+    "category": "trading"
+  },
+  "profit_maker": {
+    "name": "Profit Maker",
+    "description": "Made your first profit",
+    "icon": "\ud83d\udcb0",
+    "rarity": "common",
+    "category": "performance"
+  },
+  "big_winner": {
+    "name": "Big Winner",
+    "description": "Made over $10,000 profit",
+    "icon": "\ud83c\udfc6",
+    "rarity": "rare",
+    "category": "performance"
+  },
+  "millionaire": {
+    "name": "Millionaire",
+    "description": "Portfolio value reached $1,000,000",
+    "icon": "\ud83d\udc8e",
+    "rarity": "legendary",
+    "category": "performance"
+  },
+  "top_earner_bronze": {
+    "name": "Bronze Earner",
+    "description": "Top 10% earner this month",
+    "icon": "\ud83e\udd49",
+    "rarity": "rare",
+    "category": "leaderboard"
+  },
+  "top_earner_silver": {
+    "name": "Silver Earner",
+    "description": "Top 5% earner this month",
+    "icon": "\ud83e\udd48",
+    "rarity": "epic",
+    "category": "leaderboard"
+  },
+  "top_earner_gold": {
+    "name": "Gold Earner",
+    "description": "Top 1% earner this month",
+    "icon": "\ud83e\udd47",
+    "rarity": "legendary",
+    "category": "leaderboard"
+  },
+  "solo_champion": {
+    "name": "Solo Champion",
+    "description": "Won a solo competition",
+    "icon": "\ud83d\udc51",
+    "rarity": "legendary",
+    "category": "competition"
+  },
+  "solo_silver": {
+    "name": "Solo Silver",
+    "description": "2nd place in solo competition",
+    "icon": "\ud83e\udd48",
+    "rarity": "epic",
+    "category": "competition"
+  },
+  "solo_bronze": {
+    "name": "Solo Bronze",
+    "description": "3rd place in solo competition",
+    "icon": "\ud83e\udd49",
+    "rarity": "rare",
+    "category": "competition"
+  },
+  "team_champion": {
+    "name": "Team Champion",
+    "description": "Won a team competition",
+    "icon": "\ud83c\udfc6",
+    "rarity": "legendary",
+    "category": "team"
+  },
+  "team_silver": {
+    "name": "Team Silver",
+    "description": "2nd place in team competition",
+    "icon": "\ud83e\udd48",
+    "rarity": "epic",
+    "category": "team"
+  },
+  "team_bronze": {
+    "name": "Team Bronze",
+    "description": "3rd place in team competition",
+    "icon": "\ud83e\udd49",
+    "rarity": "rare",
+    "category": "team"
+  },
+  "risk_taker": {
+    "name": "Risk Taker",
+    "description": "Made trades worth over 50% of portfolio",
+    "icon": "\ud83c\udfb2",
+    "rarity": "rare",
+    "category": "trading"
+  },
+  "diversified": {
+    "name": "Diversified",
+    "description": "Own stocks in 10+ different sectors",
+    "icon": "\ud83c\udf08",
+    "rarity": "rare",
+    "category": "strategy"
+  },
+  "day_trader": {
+    "name": "Day Trader",
+    "description": "Made 10+ trades in a single day",
+    "icon": "\u26a1",
+    "rarity": "epic",
+    "category": "trading"
+  },
+  "long_term_investor": {
+    "name": "Long-term Investor",
+    "description": "Held a position for 30+ days",
+    "icon": "\ud83d\udc02",
+    "rarity": "rare",
+    "category": "strategy"
+  },
+  "social_butterfly": {
+    "name": "Social Butterfly",
+    "description": "Added 5+ friends",
+    "icon": "\ud83e\udd8b",
+    "rarity": "common",
+    "category": "social"
+  },
+  "team_player": {
+    "name": "Team Player",
+    "description": "Member of a team",
+    "icon": "\ud83e\udd1d",
+    "rarity": "common",
+    "category": "team"
+  },
+  "team_leader": {
+    "name": "Team Leader",
+    "description": "Captain of a team",
+    "icon": "\ud83d\udc68\u200d\ud83d\udcbc",
+    "rarity": "rare",
+    "category": "team"
+  },
+  "perfect_timing": {
+    "name": "Perfect Timing",
+    "description": "Bought at the daily low, sold at the daily high",
+    "icon": "\ud83c\udfaf",
+    "rarity": "legendary",
+    "category": "skill"
+  },
+  "comeback_king": {
+    "name": "Comeback King",
+    "description": "Recovered from 50%+ loss to profit",
+    "icon": "\ud83d\udc51",
+    "rarity": "epic",
+    "category": "resilience"
+  },
+  "streak_master": {
+    "name": "Streak Master",
+    "description": "10 profitable trades in a row",
+    "icon": "\ud83d\udd25",
+    "rarity": "epic",
+    "category": "skill"
+  },
+  "market_predictor": {
+    "name": "Market Predictor",
+    "description": "Made 5 correct day trading predictions",
+    "icon": "\ud83d\udd2e",
+    "rarity": "epic",
+    "category": "prediction"
+  },
+  "admin": {
+    "name": "Administrator",
+    "description": "System administrator",
+    "icon": "\u2699\ufe0f",
+    "rarity": "legendary",
+    "category": "admin"
+  },
+  "beta_tester": {
+    "name": "Beta Tester",
+    "description": "Early platform tester",
+    "icon": "\ud83e\uddea",
+    "rarity": "rare",
+    "category": "special"
+  },
+  "vip": {
+    "name": "VIP",
+    "description": "Very Important Player",
+    "icon": "\ud83d\udc8e",
+    "rarity": "legendary",
+    "category": "special"
+  }
+}

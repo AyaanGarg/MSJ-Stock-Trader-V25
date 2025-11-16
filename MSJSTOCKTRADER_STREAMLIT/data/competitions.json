@@ -1,0 +1,44 @@
+{
+  "monthly_leaderboard": {
+    "name": "Monthly Leaderboard Competition",
+    "type": "leaderboard",
+    "start_date": "2025-07-01T03:47:44.358259",
+    "end_date": "2025-08-01T03:47:44.358275",
+    "prizes": {
+      "1st": "leaderboard_champion",
+      "2nd": "top_3_trader",
+      "3rd": "top_3_trader",
+      "top_10": "top_10_performer"
+    },
+    "status": "active"
+  },
+  "weekly_profit_challenge": {
+    "name": "Weekly Profit Challenge",
+    "type": "profit",
+    "start_date": "2025-07-16T03:47:44.358288",
+    "end_date": "2025-07-23T03:47:44.358290",
+    "prizes": {
+      "winner": "profit_streak"
+    },
+    "status": "active"
+  },
+  "current_season": "99be2aa5-7847-4790-b7d0-d310345fc970",
+  "seasons": [
+    {
+      "season_id": "99be2aa5-7847-4790-b7d0-d310345fc970",
+      "season_number": 1,
+      "start_date": "2025-11-15T00:00:00",
+      "end_date": "2026-06-30T00:00:00",
+      "status": "active",
+      "participants": [
+        {
+          "user_id": "0223f42c-6536-4db9-b134-501338c39d41",
+          "username": "Ayaan Garg",
+          "joined_at": "2025-11-15T08:57:20.651304"
+        }
+      ],
+      "winners": [],
+      "created_at": "2025-11-15T08:54:40.148959"
+    }
+  ]
+}

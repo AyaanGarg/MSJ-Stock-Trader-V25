@@ -1,0 +1,24 @@
+{
+  "pred_1_1752637855": {
+    "id": "pred_1_1752637855",
+    "user_id": "admin",
+    "symbol": "AAPL",
+    "prediction_type": "price_direction",
+    "target_price": 210.0,
+    "confidence": 75,
+    "timeframe": "1h",
+    "created_at": "2025-07-16T03:50:55.724892",
+    "status": "active"
+  },
+  "pred_2_1752637886": {
+    "id": "pred_2_1752637886",
+    "user_id": "admin",
+    "symbol": "AAPL",
+    "prediction_type": "price_direction",
+    "target_price": 210.0,
+    "confidence": 75,
+    "timeframe": "1h",
+    "created_at": "2025-07-16T03:51:26.052872",
+    "status": "active"
+  }
+}

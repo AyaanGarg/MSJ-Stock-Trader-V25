@@ -1,0 +1,33 @@
+{
+  "admin": {
+    "AAPL": {
+      "quantity": 15,
+      "avg_cost": 209.77109074673677,
+      "last_updated": "2025-07-16T03:51:19.041710"
+    }
+  },
+  "3ca5a7ea-316c-4428-abc2-7924f32f61d3": {},
+  "c31f6e32-ab15-4564-ba87-c224c966c375": {},
+  "9fdd5035-3ddb-4f93-889c-a8627f504ad7": {},
+  "demo_user": {
+    "AAPL": {
+      "quantity": 1,
+      "avg_cost": 271.0484233080439,
+      "last_updated": "2025-11-16T04:55:27.232364"
+    }
+  },
+  "d90c8d78-edf4-4258-b5da-32e3ff0e598d": {
+    "TSLA": {
+      "quantity": 1,
+      "avg_cost": 400.53711798433284,
+      "last_updated": "2025-11-16T05:01:49.688244"
+    }
+  },
+  "ced010c7-f5ab-4f08-bc57-e79b1c13b9c8": {
+    "AAPL": {
+      "quantity": 1,
+      "avg_cost": 273.96349274773223,
+      "last_updated": "2025-11-16T05:12:15.015130"
+    }
+  }
+}

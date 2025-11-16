@@ -1,0 +1,126 @@
+{
+  "admin": [
+    {
+      "order_id": "e842d705-9aea-4ba8-8f81-f094dd39f192",
+      "user_id": "admin",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 10,
+      "order_type": "market",
+      "price": null,
+      "status": "pending",
+      "created_at": "2025-07-16T03:49:39.060752",
+      "filled_at": null,
+      "filled_price": null,
+      "filled_quantity": 0
+    },
+    {
+      "order_id": "bad2f191-83c4-493b-9774-59e1b0c2e582",
+      "user_id": "admin",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 5,
+      "order_type": "market",
+      "price": null,
+      "status": "pending",
+      "created_at": "2025-07-16T03:51:18.718908",
+      "filled_at": null,
+      "filled_price": null,
+      "filled_quantity": 0
+    }
+  ],
+  "0223f42c-6536-4db9-b134-501338c39d41": [
+    {
+      "order_id": "f9b2f48c-6639-4466-b086-24a7f5361688",
+      "user_id": "0223f42c-6536-4db9-b134-501338c39d41",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 100,
+      "order_type": "market",
+      "price": 272.55,
+      "status": "pending",
+      "created_at": "2025-11-15T20:21:40.823797",
+      "filled_at": null,
+      "filled_price": null,
+      "filled_quantity": 0
+    },
+    {
+      "order_id": "26e2043a-a825-4174-8c6c-756d8dd9e8e2",
+      "user_id": "0223f42c-6536-4db9-b134-501338c39d41",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 100,
+      "order_type": "market",
+      "price": 272.55,
+      "status": "pending",
+      "created_at": "2025-11-15T20:21:47.295155",
+      "filled_at": null,
+      "filled_price": null,
+      "filled_quantity": 0
+    }
+  ],
+  "9fdd5035-3ddb-4f93-889c-a8627f504ad7": [
+    {
+      "order_id": "e5f182d7-674c-4255-b91c-fcdbf26499a3",
+      "user_id": "9fdd5035-3ddb-4f93-889c-a8627f504ad7",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 1,
+      "order_type": "market",
+      "price": 272.55,
+      "status": "pending",
+      "created_at": "2025-11-16T04:51:36.697739",
+      "filled_at": null,
+      "filled_price": null,
+      "filled_quantity": 0
+    }
+  ],
+  "demo_user": [
+    {
+      "order_id": "b949fef3-6a2b-425d-9e38-f6854962fe6a",
+      "user_id": "demo_user",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 1,
+      "order_type": "market",
+      "price": 272.55,
+      "status": "pending",
+      "created_at": "2025-11-16T04:55:26.980405",
+      "filled_at": null,
+      "filled_price": null,
+      "filled_quantity": 0
+    }
+  ],
+  "d90c8d78-edf4-4258-b5da-32e3ff0e598d": [
+    {
+      "order_id": "1b1c6bc1-bee2-419d-8e97-b80c59ae55cc",
+      "user_id": "d90c8d78-edf4-4258-b5da-32e3ff0e598d",
+      "symbol": "TSLA",
+      "side": "buy",
+      "quantity": 1,
+      "order_type": "market",
+      "price": 404.33,
+      "status": "pending",
+      "created_at": "2025-11-16T05:01:49.462678",
+      "filled_at": null,
+      "filled_price": null,
+      "filled_quantity": 0
+    }
+  ],
+  "ced010c7-f5ab-4f08-bc57-e79b1c13b9c8": [
+    {
+      "order_id": "924b7210-8e7a-49db-92c6-7048500c23c4",
+      "user_id": "ced010c7-f5ab-4f08-bc57-e79b1c13b9c8",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 1,
+      "order_type": "market",
+      "price": 272.55,
+      "status": "filled",
+      "created_at": "2025-11-16T05:12:14.778949",
+      "filled_at": "2025-11-16T05:12:15.014704",
+      "filled_price": 273.96349274773223,
+      "filled_quantity": 1
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "admin": [
+    {
+      "trade_id": "0939fd22-6fde-48df-bb57-1d03cff1ff1c",
+      "order_id": "e842d705-9aea-4ba8-8f81-f094dd39f192",
+      "user_id": "admin",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 10,
+      "price": 210.50374237430358,
+      "value": 2105.037423743036,
+      "executed_at": "2025-07-16T03:49:39.318527"
+    },
+    {
+      "trade_id": "df914af7-e063-48c5-88e6-d1e3653d26ce",
+      "order_id": "bad2f191-83c4-493b-9774-59e1b0c2e582",
+      "user_id": "admin",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 5,
+      "price": 208.30578749160316,
+      "value": 1041.5289374580157,
+      "executed_at": "2025-07-16T03:51:19.045066"
+    }
+  ],
+  "demo_user": [
+    {
+      "trade_id": "750ab586-9810-44dc-b6d4-2c3559c5549c",
+      "order_id": "b949fef3-6a2b-425d-9e38-f6854962fe6a",
+      "user_id": "demo_user",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 1,
+      "price": 271.0484233080439,
+      "value": 271.0484233080439,
+      "executed_at": "2025-11-16T04:55:27.235220"
+    }
+  ],
+  "d90c8d78-edf4-4258-b5da-32e3ff0e598d": [
+    {
+      "trade_id": "883107b6-3409-45d4-9d62-8babbb9b62f2",
+      "order_id": "1b1c6bc1-bee2-419d-8e97-b80c59ae55cc",
+      "user_id": "d90c8d78-edf4-4258-b5da-32e3ff0e598d",
+      "symbol": "TSLA",
+      "side": "buy",
+      "quantity": 1,
+      "price": 400.53711798433284,
+      "value": 400.53711798433284,
+      "executed_at": "2025-11-16T05:01:49.692440"
+    }
+  ],
+  "ced010c7-f5ab-4f08-bc57-e79b1c13b9c8": [
+    {
+      "trade_id": "65b89d9e-81ba-4cd7-b488-bcc01facbd7c",
+      "order_id": "924b7210-8e7a-49db-92c6-7048500c23c4",
+      "user_id": "ced010c7-f5ab-4f08-bc57-e79b1c13b9c8",
+      "symbol": "AAPL",
+      "side": "buy",
+      "quantity": 1,
+      "price": 273.96349274773223,
+      "value": 273.96349274773223,
+      "executed_at": "2025-11-16T05:12:15.016930"
+    }
+  ]
+}

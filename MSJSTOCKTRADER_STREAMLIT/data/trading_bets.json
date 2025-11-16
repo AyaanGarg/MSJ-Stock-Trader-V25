@@ -1,0 +1,19 @@
+{
+  "0223f42c-6536-4db9-b134-501338c39d41_AAPL_20250717_031416": {
+    "bet_id": "0223f42c-6536-4db9-b134-501338c39d41_AAPL_20250717_031416",
+    "user_id": "0223f42c-6536-4db9-b134-501338c39d41",
+    "symbol": "AAPL",
+    "prediction": "up",
+    "amount": 100.0,
+    "target_price": 220.731,
+    "current_price": 210.16000366210938,
+    "created_at": "2025-07-17T03:14:16.996978",
+    "expires_at": "2025-07-18T03:14:16.996984",
+    "status": "active",
+    "participants": [
+      "0223f42c-6536-4db9-b134-501338c39d41"
+    ],
+    "counter_bets": [],
+    "live_price": 210.16000366210938
+  }
+}
